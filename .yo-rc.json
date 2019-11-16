@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Tim",
+      "authorEmail": "ktn_96@icloud.com",
+      "authorUrl": "https://github.com/kolesnik-tim?tab=repositories"
+    }
+  }
+}
