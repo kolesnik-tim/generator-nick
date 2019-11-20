@@ -2,11 +2,11 @@
   "name": "generator-nick",
   "version": "0.0.0",
   "description": "fron-end",
-  "homepage": "index",
+  "homepage": "https://github.com/kolesnik-tim/generator-nick",
   "author": {
     "name": "Tim",
     "email": "ktn_96@icloud.com",
-    "url": "https://github.com/kolesnik-tim?tab=repositories"
+    "url": "https://github.com/kolesnik-tim/generator-nick"
   },
   "files": [
     "generators"
@@ -68,8 +68,8 @@
   },
   "scripts": {
     "pretest": "eslint .",
-    "test": "jest"
+    "test": "gulp"
   },
   "repository": "kolesnik-tim/generator-nick",
-  "license": "Apache-2.0"
+  "license": "MIT"
 }
